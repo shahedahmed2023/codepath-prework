@@ -4,7 +4,7 @@
 An iOS app where a student can enter their personal information (name, school, year, and pet details) and generate a fun introduction that's displayed in an alert. Built as part of iOS102 pre-work to practice IBOutlets and IBActions.
 
 ## App Walk-through
-<img src='TODO://' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
+<img src='Walkingthrough.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
 
 ## Required Features
 
